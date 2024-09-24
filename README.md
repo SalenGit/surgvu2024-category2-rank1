@@ -4,7 +4,7 @@ Here is the final submission for Surgical Visual Understanding 2024 Category 2: 
 
 To reproduce the solution, please download the pre-trained yolov5 weights from the following link:
 
-[Baidu Cloud Storage](https://grand-challenge.org/blogs/create-an-algorithm/)
+[Baidu Cloud Storage](https://pan.baidu.com/s/1tHVwSbztnHc26MUpLcURQA)
 
 Once the download is complete, unzip the runs folder here from runs.zip and run:
 
