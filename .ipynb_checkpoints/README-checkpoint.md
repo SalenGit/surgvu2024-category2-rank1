@@ -2,7 +2,7 @@
 
 Here is the final submission for Surgical Visual Understanding 2024 Category 2: Surgical task recognition Rank1 team PDMYR.
 
-To reproduce the solution, please download the pre-trained yolov5 weights from the following link:
+To reproduce the solution, please download the pre-trained model weights from the following link:
 
 [Baidu Cloud Storage](https://pan.baidu.com/s/1tHVwSbztnHc26MUpLcURQA)
 
